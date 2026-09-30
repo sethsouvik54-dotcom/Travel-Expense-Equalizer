@@ -1,0 +1,6 @@
+{
+  "name": "Trip Expense Equalizer",
+  "description": "Log group expenses during a trip and calculate exact settlements for equal expenditure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
